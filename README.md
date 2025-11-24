@@ -46,3 +46,7 @@ The `global_read` role grants:
 
 - `folder_uid`, `folder_id`, `folder_title`
 - `role_uid`, `role_version`
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
